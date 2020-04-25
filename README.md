@@ -12,6 +12,6 @@ This project analyzes disaster data from Figure Eight to build a model for an AP
 * Web-app Deploy: Deploy the results.
 
 ## File Descriptions
--Data
---DisasterResponse.db: The database created from data Processing
+- Data
+  - DisasterResponse.db: The database created from data Processing
   
