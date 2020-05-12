@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [Introduction](#Introduction)
-* [FileDescriptions](#FileDescriptions)
+* [File Descriptions](#FileDescriptions)
 * [About](#About)
 
 ## Introduction
